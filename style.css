@@ -5592,8 +5592,12 @@ body.mean-container #wrapper {
 
 /*Extras*/
 .cfp-mad{
-  padding-left: 130px;
+  padding-left: 110px;
   font-size: 16px;
   color:#ffffff;
 
 }
+.publif{
+  padding-left: 135px;
+}
+
