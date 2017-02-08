@@ -1979,7 +1979,7 @@ body.mean-container #wrapper {
 .countdown-area2 .countdown-section {
   padding-top: 7px;
   height: 80px;
-  width: 150px;
+  width: 200px;
   background: transparent;
   display: inline-block;
   text-align: center;
@@ -1996,7 +1996,7 @@ body.mean-container #wrapper {
 }
 @media only screen and (max-width: 480px) {
   .countdown-area2 .countdown-section {
-    width: 68px;
+    width: 50px;
   }
 }
 .countdown-area2 .countdown-section:last-child {
@@ -2010,7 +2010,7 @@ body.mean-container #wrapper {
 }
 @media only screen and (max-width: 991px) {
   .countdown-area2 .countdown-section h2 {
-    font-size: 48px;
+    font-size: 40px;
   }
 }
 @media only screen and (max-width: 767px) {
