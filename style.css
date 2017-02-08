@@ -2244,7 +2244,7 @@ body.mean-container #wrapper {
   }
 }
 .about-event-content2 {
-  margin-top: 130px;
+  margin-top: 80px;
 }
 .about-event-content2 p {
   padding-right: 30px;
@@ -5600,4 +5600,10 @@ body.mean-container #wrapper {
 .publif{
   padding-left: 135px;
 }
-
+.duplif{
+  margin-top: 90px;
+}
+.mulif{
+  margin-top:180px;
+  margin-bottom: 200px;
+}
