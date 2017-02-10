@@ -2576,6 +2576,8 @@ body.mean-container #wrapper {
   overflow: hidden;
   position: relative;
   margin-bottom: 10px;
+  width:150px;
+  height:150px;
 }
 @media only screen and (max-width: 991px) {
   .speakers-area .speakers-box a img {
