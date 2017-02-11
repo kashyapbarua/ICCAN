@@ -1058,14 +1058,14 @@ ul {
   z-index: 9999999;
 }
 .inner-page-banner-area {
-  margin-top: 78px;
+  margin-top: 30px;
   text-align: left;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
   display: block;
-  padding: 89px 0 100px;
+  padding: 89px 0 30px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .inner-page-banner-area {
@@ -2217,7 +2217,7 @@ body.mean-container #wrapper {
   color: #ffffff;
 }
 .about-event-area2 {
-  padding: 0 0 100px 0;
+  padding: 5px 0 30px 0;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .about-event-area2 {
@@ -2245,7 +2245,7 @@ body.mean-container #wrapper {
   }
 }
 .about-event-content2 {
-  margin-top: 80px;
+  margin-top: 30px;
 }
 .about-event-content2 p {
   padding-right: 30px;
@@ -2676,7 +2676,7 @@ body.mean-container #wrapper {
 }
 .speakers2-area {
   background: #f8f8f8;
-  padding: 118px 0 120px;
+  padding: 50px 0 50px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .speakers2-area {
@@ -4211,7 +4211,7 @@ body.mean-container #wrapper {
 =========================================================================*/
 
 .banner1-area {
-  padding: 70px 0 60px;
+  padding: 20px 0 20px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .banner1-area {
@@ -5136,7 +5136,7 @@ body.mean-container #wrapper {
   }
 }
 .contact-page-area .google-map-area {
-  margin-bottom: 85px;
+  margin-bottom: 2px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .contact-page-area .google-map-area {
@@ -5604,7 +5604,7 @@ body.mean-container #wrapper {
   padding-left: 135px;
 }
 .duplif{
-  margin-top: 90px;
+  margin-top: 30px;
 }
 .mulif{
   margin-top:180px;
