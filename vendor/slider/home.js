@@ -37,5 +37,6 @@
 				manualAdvance: true
 
 			 }); 
+			
 
 })(jQuery); 
