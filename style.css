@@ -1053,14 +1053,14 @@ ul {
   z-index: 9999999;
 }
 .inner-page-banner-area {
-  margin-top: 30px;
+  margin-top: 10px;
   text-align: left;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   position: relative;
   display: block;
-  padding: 89px 0 30px;
+  padding: 70px 0 20px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .inner-page-banner-area {
@@ -1452,7 +1452,7 @@ ul {
   }
 }
 .header-style2 .header-bottom-area {
-  background: #ffffff;
+  background: #1C2833;
   position: fixed;
   z-index: 11;
   padding: 20px 30px 0 30px;
@@ -1471,10 +1471,10 @@ ul {
   color: #512da8;
 }
 .header-style2 .header-bottom-area nav ul li a {
-  color: #444444;
+  color: #ffffff;
 }
 .header-style2 .header-bottom-area nav ul li a:hover {
-  color: #512da8;
+  color: #ffffff;
 }
 .header-style2 .header-bottom-area nav ul li ul li a {
   color: #ffffff;
@@ -1905,7 +1905,7 @@ body.mean-container #wrapper {
 .countdown-area .countdown-section {
   padding-top: 7px;
   height: 80px;
-  width: 160px;
+  width: 120px;
   background: transparent;
   display: inline-block;
   text-align: center;
@@ -1915,21 +1915,21 @@ body.mean-container #wrapper {
   margin-right: 0;
 }
 .countdown-area .countdown-section h2 {
-  font-size: 62px;
+  font-size: 40px;
   margin-bottom: 0;
   line-height: 1.1;
 }
 .countdown-area .countdown-section h2 span {
   color: #ffffff;
   padding-left: 15px;
-  font-size: 72px;
+  font-size: 40px;
 }
 @media only screen and (max-width: 1199px) {
   .countdown-area .countdown-section h2 {
-    font-size: 56px;
+    font-size: 40px;
   }
   .countdown-area .countdown-section h2 span {
-    font-size: 62px;
+    font-size: 40px;
   }
 }
 .countdown-area .countdown-section h3 {
@@ -2212,7 +2212,7 @@ body.mean-container #wrapper {
   color: #ffffff;
 }
 .about-event-area2 {
-  padding: 5px 0 30px 0;
+  padding: 2px 0 30px 0;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .about-event-area2 {
@@ -2240,7 +2240,7 @@ body.mean-container #wrapper {
   }
 }
 .about-event-content2 {
-  margin-top: 30px;
+  margin-top: 5px;
 }
 .about-event-content2 p {
   padding-right: 30px;
@@ -2256,7 +2256,7 @@ body.mean-container #wrapper {
 }
 @media only screen and (max-width: 991px) {
   .about-event-content2 {
-    margin-top: 30px;
+    margin-top: 10px;
     text-align: center;
   }
   .about-event-content2 h2 {
@@ -2529,7 +2529,7 @@ body.mean-container #wrapper {
 
 .speakers-area {
   background: #f8f8f8;
-  padding: 118px 0 120px;
+  padding: 20px 0 120px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .speakers-area {
@@ -2671,7 +2671,7 @@ body.mean-container #wrapper {
 }
 .speakers2-area {
   background: #f8f8f8;
-  padding: 50px 0 50px;
+  padding: 10px 0 10px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .speakers2-area {
@@ -4206,7 +4206,7 @@ body.mean-container #wrapper {
 =========================================================================*/
 
 .banner1-area {
-  padding: 20px 0 20px;
+  padding: 10px 0 10px;
 }
 @media (min-width: 992px) and (max-width: 1199px) {
   .banner1-area {
@@ -4230,7 +4230,7 @@ body.mean-container #wrapper {
 }
 @media only screen and (max-width: 320px) {
   .banner1-area {
-    padding: 45px 0 35px;
+    padding: 45px 0 15px;
   }
 }
 .banner1-area .banner1-content p {
@@ -5593,13 +5593,15 @@ body.mean-container #wrapper {
   padding-left: 110px;
   font-size: 16px;
   color:#ffffff;
+  margin-top:5px;
+  padding-top:5px;
 
 }
 .publif{
   padding-left: 135px;
 }
 .duplif{
-  margin-top: 30px;
+  margin-top: 10px;
 }
 .mulif{
   margin-top:180px;
